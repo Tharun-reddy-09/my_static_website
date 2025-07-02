@@ -1,0 +1,45 @@
+.bg-container{
+    background-color: rgb(209, 209, 207);
+    height: 100%;
+    background-size: cover;
+}
+.header{
+    font-family: "Roboto";
+    font-weight: bold;
+    color: rgb(12, 11, 11);
+}
+.Telugu{
+    padding: 10px;
+    width:90vw;
+    color: black;
+    background-color: rgb(214, 151, 151);
+    border-radius: 10px;
+    margin: 10px;
+}
+.English{
+    padding: 10px;
+    width: 90vw;
+    color: black;
+    background-color: rgb(214, 151, 151);
+    border-radius: 10px;
+    margin: 10px;
+
+}
+.Hindi{
+    padding: 10px;
+    width: 90vw;
+    color: black;
+    background-color: rgb(214, 151, 151);
+    border-radius: 10px;
+    margin: 10px;
+
+}
+.Tamil{
+    padding: 10px;
+    width: 90vw;
+    color: black;
+    background-color: rgb(214, 151, 151);
+    border-radius: 10px;
+    margin: 10px;
+
+}

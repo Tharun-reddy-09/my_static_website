@@ -1,0 +1,25 @@
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    background-size: cover;
+    height: 100vh;
+    font-family: "Roboto";
+}
+.music_card-container{
+    background-color: #433838;
+    height: 220px;
+    width: 550px;
+    padding: 20px;
+    font-style: oblique;
+    color: white;
+    border-radius: 20px;
+    border-color: transparent;
+}
+.Explore_btn{
+    background-color:blue;
+    height: 40px;
+    width: 100px;
+    color: wheat;
+    border-color: transparent;
+    border-radius: 20px;
+    align-items: center;
+}
